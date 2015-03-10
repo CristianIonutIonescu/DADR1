@@ -3,6 +3,7 @@ package ro.ucv.main;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
+@SuppressWarnings("serial")
 public class MainGUI extends JFrame {
 
 	public MainGUI(){
